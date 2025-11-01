@@ -1,2 +1,4 @@
 print("Hola mundo!!")
-# nombre por defecto modificado
+# El nombre por defecto es hola_mundo
+# Autor: Francisco Serrano
+# Email: aaa@aaa.com
